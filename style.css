@@ -1,0 +1,102 @@
+.span{
+    color: brown;
+}
+.color-2{
+    color: #76b0d6;
+}
+.header{
+    background: #0b1979;
+    font-family: 'Montserrat', sans-serif;
+}
+.white{
+    color: #a7a9cd;
+}
+.color-4{
+    color:brown ;
+}
+/*body*/
+.body{
+    background: #000;
+}
+.pure-white{
+    color: #fff;
+}
+.manu {
+    background: #047504;
+    padding: 3px;
+    font-family: 'Yellowtail', cursive;
+    
+}
+/*content*/
+.content{
+    background: #834646;
+    padding: 10px 0;
+    font-family: 'Yellowtail', cursive;
+}
+.brown {
+    color: #212529;
+    font-size: 44px;
+}
+.content-2{
+    padding: 5px 0;
+}
+.lorem{
+    font-size:15px;
+    line-height: 30px;
+}
+.service{
+    background: #297a48;
+    padding: 4px;
+}
+.service-2{
+    
+}
+.mt{
+    margin-top: 10px;
+}
+.our{
+    color: #212629;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+}
+.contact-us{
+    background: #0d6efd;
+    padding: 4px;
+    font-family: 'Roboto', sans-serif;
+}
+.black{
+    color: #1d314d;
+}
+.body2{
+    background: #eeeeee;
+}
+.textarea {
+    margin-left: 51px;
+}
+.submit {
+    margin-right: 115px;
+}
+.footer{
+    background: #4f84c4;
+    color: #fff;
+    padding-bottom: 5px;
+}
+.footer-bottom {
+    background: #000;
+    color: #fff;
+    margin-top: -16px;
+    padding: 4px 0;
+}
+.tera{
+    font-family: 'Yellowtail', cursive;
+}
+.get{
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+/* font-family: 'Montserrat', sans-serif */
+/* font-family: 'Open Sans', sans-serif */
+/* font-family: 'Roboto', sans-serif */
+/* font-family: 'Yellowtail', cursive */
